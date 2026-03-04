@@ -12,4 +12,4 @@ function bmiCalc(w, h) {
     }
 }
 
-console.log(bmiCalc(70, 1.8));
+console.log(bmiCalc(70, 1.7));
